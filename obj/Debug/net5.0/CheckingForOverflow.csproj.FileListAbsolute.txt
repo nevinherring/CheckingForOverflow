@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/bin/Debug/net5.0/ref/CheckingForOverflow.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/ref/CheckingForOverflow.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.genruntimeconfig.cache
